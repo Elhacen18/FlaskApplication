@@ -18,13 +18,27 @@ Assuming you are using Window OS.
     cd BackEnd
     
     Create your python virtual enviroment in within BackEnd directory using the following command 
+    ```
     python -m venv nameofyourvenv
-    nameofyourvenv\Scripts\activate # Activate the virtual environment
-    
+    ```
+        # Activate the virtual environment
+
+    ```
+    nameofyourvenv\Scripts\activate 
+    ```
 if you clone this repo, run these command 
+    ```
     python -m venv nameofyourvenv 
-    nameofyourvenv\Scripts\activate  # Activate the virtual environment
-    pip install -r requirements.txt  # Install dependencies from requirements.txt
+    ````
+    # Activate the virtual environment
+
+    ```
+    nameofyourvenv\Scripts\activate  
+    ```
+    # Install dependencies from requirements.txt
+    ```
+    pip install -r requirements.txt  
+    ```
 2. Install Flask and required dependencies:
 
     ```
