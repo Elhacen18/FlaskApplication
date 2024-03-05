@@ -15,7 +15,7 @@ Assuming you are using Window OS.
 1. Navigate to the `BackEnd` directory using Command Prompt
 
     
-    cd backend
+    cd BackEnd
     
     Create your python virtual enviroment in within BackEnd directory using the following command 
     python -m venv nameofyourvenv
@@ -41,10 +41,10 @@ if you clone this repo, run these command
 
 ## Frontend Setup (React.js)
 
-1. Navigate to the `FronEnd\client` directory:
+1. Navigate to the `FrontEnd\client` directory:
 
     ```
-    cd frontend
+    cd FrontEnd
     cd client
     ```
 
